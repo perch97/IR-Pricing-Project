@@ -15,3 +15,7 @@
 2.2 Resulting error (RMSE) for the Vasicek model = 0.19 over 10 simulations
 
 2.3 Resulting error (RMSE) for the Hull-White model = 0.51 over 10 simulations
+
+### 3. Conclusion
+
+It is expected that the future interest rates in Turkey will decrease as currently rates are anomally above the mean. Given that the Vasicek is a mean-reverting algorithm, it is safe to assume that those results are reliable
