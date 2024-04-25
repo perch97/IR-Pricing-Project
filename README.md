@@ -12,3 +12,6 @@
   2.1 Sung k-means clusterizaion 3 main distiicnt periods have been determined in the short-term interest rate yields
 ![image](https://github.com/bicyclerepairservice/IR-Pricing-Project/assets/133600177/16e2475c-4e2c-48ee-97f4-3bdd9a8b49b6)
 
+2.2 Resulting error (RMSE) for the Vasicek model = 0.19 over 10 simulations
+
+2.3 Resulting error (RMSE) for the Hull-White model = 0.51 over 10 simulations
