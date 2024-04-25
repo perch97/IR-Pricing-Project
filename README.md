@@ -21,3 +21,6 @@ Made by Vladislav Gusev and Vadim Smirnov.
 ### 3. Conclusion
 
 It is expected that the future interest rates in Turkey will decrease as currently rates are anomally above the mean. Given that the Vasicek is a mean-reverting algorithm, it is safe to assume that those results are reliable
+
+![image](https://github.com/bicyclerepairservice/IR-Pricing-Project/assets/133600177/8fbf64a3-4c01-4f4c-ae24-0a984ced1e56)
+
