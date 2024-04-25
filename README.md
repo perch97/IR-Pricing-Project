@@ -1,5 +1,7 @@
 # Interest rate pricing project (School of Quants)
-### Using Vasicek and Hull-White models short-term interest rates in Turkey has been forecasted. Made by Vladislav Gusev and Vadim Smirnov.
+### Using Vasicek and Hull-White models short-term interest rates in Turkey has been forecasted.
+
+Made by Vladislav Gusev and Vadim Smirnov.
 
 ### 1. Repository Guide:
   1.1 IR.ipynb - project code wich contains main comments, graphs and conclusions
